@@ -1,0 +1,6 @@
+{
+  "name": "StudAI",
+  "description": "Super-App EdTech pintar dan interaktif untuk kuis, slide presentasi, tabel excel, dan konsultasi pelajaran bagi Pelajar & Mahasiswa.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
